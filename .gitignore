@@ -1,0 +1,28 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+
+# Data and large files
+data/
+paper/
+preprint_submission/
+results/*.csv
+results/*.pth
+sec26_cfp_010826.pdf
+instruction.md
+
+# OS specific
+.DS_Store
+Thumbs.db

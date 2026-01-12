@@ -1,0 +1,22 @@
+{
+    "DoS": {
+        "Rule-based": 0.8740543771091028,
+        "IsolationForest": 0.8790401357012904,
+        "ContrastiveSSL": 0.8532319631228957
+    },
+    "PortScan": {
+        "Rule-based": 0.49433535080638963,
+        "IsolationForest": 0.5893209127571108,
+        "ContrastiveSSL": 0.47154629124591696
+    },
+    "WebAttack": {
+        "Rule-based": 0.5132938005020442,
+        "IsolationForest": 0.6795474332158192,
+        "ContrastiveSSL": 0.6527161283313895
+    },
+    "BruteForce": {
+        "Rule-based": 0.49140373360962536,
+        "IsolationForest": 0.7184523849833983,
+        "ContrastiveSSL": 0.5072208875264187
+    }
+}

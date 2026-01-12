@@ -1,0 +1,50 @@
+{
+    "DoS": {
+        "AUROC": {
+            "Rule-based": 0.8740543771091028,
+            "IsolationForest": 0.8790401357012904,
+            "ContrastiveSSL": 0.8534527747548926
+        },
+        "TPR@1%FPR": {
+            "Rule-based": 0.5661253981819594,
+            "IsolationForest": 0.03428793411545335,
+            "ContrastiveSSL": 0.010811902727060835
+        }
+    },
+    "PortScan": {
+        "AUROC": {
+            "Rule-based": 0.49433535080638963,
+            "IsolationForest": 0.5893209127571108,
+            "ContrastiveSSL": 0.5156157302286771
+        },
+        "TPR@1%FPR": {
+            "Rule-based": 0.0007046983560708663,
+            "IsolationForest": 0.0,
+            "ContrastiveSSL": 0.004514473843578987
+        }
+    },
+    "WebAttack": {
+        "AUROC": {
+            "Rule-based": 0.5132938005020442,
+            "IsolationForest": 0.6795474332158192,
+            "ContrastiveSSL": 0.6214712396165699
+        },
+        "TPR@1%FPR": {
+            "Rule-based": 0.042463835744283716,
+            "IsolationForest": 0.0004666355576294914,
+            "ContrastiveSSL": 0.0
+        }
+    },
+    "BruteForce": {
+        "AUROC": {
+            "Rule-based": 0.49140373360962536,
+            "IsolationForest": 0.7184523849833983,
+            "ContrastiveSSL": 0.5722714330890185
+        },
+        "TPR@1%FPR": {
+            "Rule-based": 0.00043706293706293706,
+            "IsolationForest": 0.0,
+            "ContrastiveSSL": 0.00043706293706293706
+        }
+    }
+}
