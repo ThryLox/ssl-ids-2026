@@ -1,5 +1,7 @@
 # Manifold-Based Novelty Detection for Network Intrusion
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18231967.svg)](https://doi.org/10.5281/zenodo.18231967)
+
 ![t-SNE Projection](results/tsne_DoS.png)
 
 ## Overview
@@ -68,7 +70,9 @@ If you find this research useful, please cite our preprint:
 @article{singh2024manifold,
   title={Manifold-Based Novelty Detection for Network Intrusion: A Contrastive Self-Supervised Approach},
   author={Singh, Ekonkar},
-  journal={ArXiv Preprint},
-  year={2024}
+  journal={Zenodo},
+  year={2024},
+  doi={10.5281/zenodo.18231967},
+  url={https://doi.org/10.5281/zenodo.18231967}
 }
 ```
